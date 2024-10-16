@@ -16,7 +16,7 @@ public class MainCalculator {
                 calculator = new Addition();
                 break;
             case "-":
-                calculator = new Subtraction();
+                calculator = new Substraction();
                 break;
             case "*":
                 calculator = new Multiplication();
