@@ -14,3 +14,9 @@ Calculator (Abstract class)
 Abstract method: double compute(double A, double B)
 Addition, Subtraction, Multiplication, Division (Concrete classes)
 Each implements the compute method for the respective operation.
+
+.gitignore Setup:
+We use a .gitignore file to exclude unnecessary files from the repository, such as:
+
+.class files
+Build or dependency files
